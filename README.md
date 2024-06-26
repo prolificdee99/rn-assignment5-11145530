@@ -48,6 +48,8 @@ npx react-native run-ios # for iOS
 
 Here are some screenshots of the application:
 
-Home Screen
+<u>HomeScreen</u>
+![Screenshot 1](./assets/homepage.jpg)
 
-Settings Screen
+<u>SettingsPage</u>
+![Screenshot 2](./assets/settingpage.jpg)
