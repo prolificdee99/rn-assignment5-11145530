@@ -53,3 +53,7 @@ Here are some screenshots of the application:
 
 <u>SettingsPage</u>
 ![Screenshot 2](./assets/settingpage.jpg)
+
+<u>SettingsPage</u>
+![Screenshot 2](./assets/darkmode.jpg)
+
